@@ -1,3 +1,5 @@
+# 🛠️ Practice Lab Code
+
 ## Overview
 This repository contains the practice labs associated with the Python for Data Analytics course by DeepLearning.AI.
 Each lab provides a chance to apply the theory learned during the sessions to real-world datasets.
