@@ -35,3 +35,10 @@ It documents the concepts and techniques I am learning across various modules, h
 - matplotlib and Seaborn: Data visualization.
 
 - scikit-learn: Basic machine learning models.
+
+## ✨ Final Notes
+- This project documents my learning journey through the DeepLearning.AI Python for Data Analytics course.
+
+- README files and project details will continue to evolve as I progress.
+
+- Feel free to explore, suggest improvements, or provide feedback!
