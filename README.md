@@ -1,38 +1,37 @@
-# 🛠️ Practice Lab Code
-
+# 📘 Learning Session Code
 ## Overview
-This repository contains the practice labs associated with the Python for Data Analytics course by DeepLearning.AI.
-Each lab provides a chance to apply the theory learned during the sessions to real-world datasets.
+This repository contains the code from my learning sessions while taking the Python for Data Analytics course by DeepLearning.AI on Coursera.
+It documents the concepts and techniques I am learning across various modules, helping build a strong foundation in Python for data science and analytics.
 
-## Labs
-### Module 1: Basic Data Manipulation
-- Creating variables, performing operations.
+## Note: I am currently progressing through the course. I will update the repository as I complete additional modules.
 
-- Manipulating data with pandas DataFrames.
+## Key Concepts Covered
+### Module 1: Python Basics
+- Core Python topics: variables, data types, loops, functions, and basic data structures.
 
 ### Module 2: Data Analysis with Pandas
-- Sorting, filtering, and aggregating data.
-
-- Summarizing data with descriptive statistics.
+- Working with pandas for data import/export, cleaning, filtering, and summarizing DataFrames.
 
 ### Module 3: Data Visualization
-- Building scatter plots, line charts, and bar charts.
+- Creating visualizations using matplotlib and seaborn (line charts, bar charts, scatter plots, histograms).
 
-- Applying styling and annotations.
+### Module 4: Statistical Inference & Regression
+- Basics of hypothesis testing: t-tests, confidence intervals.
 
-### Module 4: Regression & Statistical Inference
-- Conducting t-tests, building regression models.
+- Building simple and multiple linear regression models.
 
-- Interpreting statistical outputs like p-values and R-squared.
+### Module 5: Time Series Analysis
+- Working with DateTime objects to handle time-based data.
 
-### Module 5: Time Series Forecasting
-- Handling DateTime data.
+- Techniques like resampling, segmentation, forecasting trends and seasonality.
 
-- Forecasting trends using moving averages and seasonal decomposition.
+## Technologies
+- Python: Core programming language.
 
-## Tools and Techniques
-- Jupyter Notebooks: Interactive coding environment.
+- pandas: Data manipulation.
 
-- pandas, matplotlib, Seaborn: Data manipulation and visualization.
+- NumPy: Numerical operations.
 
-- Statistical Analysis: Hypothesis testing and regression.
+- matplotlib and Seaborn: Data visualization.
+
+- scikit-learn: Basic machine learning models.
